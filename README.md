@@ -27,6 +27,8 @@
  
    <br/>
    <br/>
+
+   https://velog.io/@young2/posts
  
 #### :pencil2: Study log
  
