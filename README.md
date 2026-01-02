@@ -41,7 +41,7 @@
   <br><br>
 
   <a href="https://solved.ac/kchy0625">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kchy0625" alt="Baekjoon Class" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kchy0625" alt="Baekjoon Class" />
   </a>
 
   <br><br>
